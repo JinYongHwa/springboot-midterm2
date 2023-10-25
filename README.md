@@ -39,6 +39,7 @@
 
 
 ## 5. Spring Boot로 ProductViewController 를 만들고 "/products" 로 접속했을때  위에서 입력한 학생 데이터가 나오도록 만드세요,단 css는 아래의 화면과 다르게나와도 정답으로 인정(10점)
+![image](https://github.com/JinYongHwa/springboot-midterm2/assets/21700482/953131ea-163e-47f1-9119-07fd14ae86e8)
 
 
 
