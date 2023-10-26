@@ -34,14 +34,13 @@
 - url : /api/products
 - body(JSON) : {"name":"모듬회","price":50000}
 
-  ![image](https://github.com/JinYongHwa/springboot-midterm2/assets/21700482/4065d397-7037-49cd-a174-8987fba3922c)
+![277873338-4065d397-7037-49cd-a174-8987fba3922c](https://github.com/JinYongHwa/springboot-midterm2/assets/21700482/9a7032bf-a1dd-43c5-9273-a1e3b2c10191)
 
 
 
 ### 5. Spring Boot로 ProductViewController 를 만들고 "/products" 로 접속했을때  위에서 입력한 학생 데이터가 나오도록 만드세요,단 css는 아래의 화면과 다르게나와도 정답으로 인정(10점)
-![image](https://github.com/JinYongHwa/springboot-midterm2/assets/21700482/953131ea-163e-47f1-9119-07fd14ae86e8)
 
 
-
+![277873855-953131ea-163e-47f1-9119-07fd14ae86e8](https://github.com/JinYongHwa/springboot-midterm2/assets/21700482/f8146baf-9fdb-486c-8aab-d6c9cd0fcde0)
 
 
